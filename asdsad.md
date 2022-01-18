@@ -1,17 +1,13 @@
 asdasd
-asdasdasdasdasdasdasd
-as
-das
-d
-asasdasd
-asd
-as
-das
-d2312321
-3
-123
-123
-1
-d
-asd
-asd
+
+로그인 기능 완성
+
+충돌 발생전
+
+ㅁㄴㅇㅁㄴㅇㅁㄴ
+ㅇㅁㄴ
+ㅇ
+ㅁㄴㅇ
+ㅁㄴ
+asdasdas
+
